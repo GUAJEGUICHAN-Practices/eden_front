@@ -4,7 +4,7 @@ function App() {
     <>
       <div>
       </div>
-      <h1 style={{ margin: 'auto' }}>This is Eden Project</h1>
+      <h1 style={{ margin: 'auto' }}>This is Eden Project Dev</h1>
     </>
   )
 }
